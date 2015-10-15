@@ -1,0 +1,10 @@
+!define TEST_SYSTEM {slim}
+!path C:\Users\Alexk.calypso\Documents\NetBeansProjects\Fitnesse-playground\target\classes
+!contents -R2 -g -p -f -h
+
+| import |
+| com.specialisterren.fitnesse |
+
+| script | hallo fitnesse |
+| hallo | foo | world; | foo | foo |
+
